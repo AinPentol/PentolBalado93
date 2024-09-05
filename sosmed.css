@@ -1,0 +1,22 @@
+body {
+    font-family: arial, sans-serif;
+    margin: 50px
+}
+
+.Sosmed {
+    text-decoration: none;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: #ece8e8;
+    border-radius: 50%;
+    line-height: 50px;
+    text-align: center;
+    color: black;
+    margin-right: 15px;
+    font-size: 20px;
+}
+.sosmed a:hover {
+    background-color: magenta;
+    color: #ece8e8;
+}
